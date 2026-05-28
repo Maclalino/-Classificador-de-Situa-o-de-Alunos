@@ -4,3 +4,5 @@ A escola fictícia Escola Futuro Digital deseja automatizar a classificação da
 Exercício: Reserva de Carro por Aplicativo (TDD + BDD)
 Objetivo
 Desenvolver uma funcionalidade de reserva de carro em um aplicativo de mobilidade, utilizando TDD e BDD com Gherkin + Cucumber.
+
+Alunos: Lucas Ferreira Andrade e Maria Clara Marques Lino.
